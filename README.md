@@ -23,10 +23,8 @@
   ##
  
 <div> 
-  <a href="https://instagram.com/jierlausson.dev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href = "mailto:jierlausson@yahoo.com.br"><img src="https://img.shields.io/badge/-Mail-%23333?style=for-the-badge&logo=yahoo&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/jierlausson-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/jierlausson/jierlausson/blob/output/github-contribution-grid-snake.svg)
- 
+  <a href="https://instagram.com/jierlausson.dev" target="_blank"><img src="https://cdn.cdnlogo.com/logos/i/92/instagram.svg" height="30" target="_blank"></a>
+ 	<a href = "mailto:jierlausson@yahoo.com.br"><img src="https://uxwing.com/wp-content/themes/uxwing/download/37-communication-chat-call/purple-mail.svg" height="30" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/jierlausson" target="_blank"><img src="https://icongr.am/devicon/linkedin-original.svg" target="_blank"></a> 
+  
 </div>
