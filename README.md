@@ -1,4 +1,4 @@
-## Olá, Jil Oliveira desenvolvedor WEB!
+## Olá, sou Jil Oliveira desenvolvedor WEB!
 <div align="center">
   <a href="https://github.com/jierlausson">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jierlausson&show_icons=true&theme=city_lights&include_all_commits=true&count_private=true"/>
