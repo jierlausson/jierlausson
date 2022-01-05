@@ -1,9 +1,4 @@
-## Olá, muito prazer. Sou Jil Oliveira desenvolvedor WEB!
-<div align="center">
-  <a href="https://github.com/jierlausson">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jierlausson&show_icons=true&theme=city_lights&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jierlausson&layout=compact&langs_count=7&theme=city_lights"/>
-</div>
+## Olá, muito prazer. Sou Jil Oliveira Full Stack developer!
 <div style="display: inline_block"><br>
   <img align="center" alt="Jil-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Jil-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
