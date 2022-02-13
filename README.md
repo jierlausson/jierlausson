@@ -15,15 +15,13 @@
   <code><img  alt="Jil-MySql" height="30" src="https://icongr.am/devicon/mysql-original.svg"></code>
   <code><img  alt="Jil-PostgreSQL" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
   <code><img  alt="Jil-Jatstream" height="30" src="https://ih1.redbubble.net/image.2428884987.0603/st,small,507x507-pad,600x600,f8f8f8.jpg"></code>
-  <code><img  alt="Jil-AdminLTE" height="30" src="https://adminlte.io/docs/3.0/assets/img/AdminLTELogo.png"></code><br><br>
-
+  <code><img  alt="Jil-AdminLTE" height="30" src="https://adminlte.io/docs/3.0/assets/img/AdminLTELogo.png"></code>
   <code><img  alt="Jil-HTML" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
   <code><img  alt="Jil-CSS" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
   <code><img  alt="Jil-Javascript" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
   <code><img  alt="Jil-JQuery" height="30" src="https://icongr.am/devicon/jquery-original.svg"></code>
   <code><img  alt="Jil-GitHub" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
-  <code><img  alt="Jil-Tailwind" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png"></code><br><br>
-    
+  <code><img  alt="Jil-Tailwind" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png"></code>
   <code><img  alt="Jil-VueJs" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
   <code><img  alt="Jil-Livewire" height="30" src="https://laravel-livewire.com/img/underwater_jelly.svg"></code>
   <code><img  alt="Jil-InertiaJs" height="30" src="https://avatars.githubusercontent.com/u/47703742?s=200&v=4"></code>
