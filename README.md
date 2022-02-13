@@ -41,6 +41,8 @@
 </p>
 
   ![jierlausson ' Activity Graph](https://activity-graph.herokuapp.com/graph?username=jierlausson&custom_title=Jil%20Oliveira%20Contribution%20Graph&theme=nord&bg_color=2e3440&hide_border=true&line=7490ac&point=d8dee9)
+  
+  ![Snake animation](https://github.com/jierlausson/jierlausson/blob/output/github-contribution-grid-snake.svg)
 <br>
 
 
