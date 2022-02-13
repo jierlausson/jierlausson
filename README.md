@@ -1,7 +1,7 @@
 ## Hello nice to meet you. Jil Oliveira Full Stack developer!
   <img align="right" alt="Jil-pic" height="150" style="border-radius:50px;" src="https://oticairis.dlwsolucoes.com.br/img/jil_pic.png">
 
-## **My Social Midea and Contacts**
+## **Social Media and Contacts**
 <div>
   <code><a href="https://www.linkedin.com/in/jierlausson" target="_blank"><img src="https://icongr.am/devicon/linkedin-original.svg" target="_blank"></a></code>
   <code><a href="https://instagram.com/jierlausson.dev" target="_blank"><img src="https://cdn.cdnlogo.com/logos/i/92/instagram.svg" height="30" target="_blank"></a></code>
