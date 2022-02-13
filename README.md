@@ -23,3 +23,13 @@
   <a href="https://www.linkedin.com/in/jierlausson" target="_blank"><img src="https://icongr.am/devicon/linkedin-original.svg" target="_blank"></a> 
   
 </div>
+
+## **GitHub Estatísticas**
+
+<br/>
+<p align="left">
+   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=jierlausson&show_icons=true&theme=gruvbox&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=jierlausson&theme=gruvbox&hide_border=true" />
+  </a>
+</p>
+<br>
