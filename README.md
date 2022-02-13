@@ -13,10 +13,10 @@
   <code><img  alt="Jil-Laravel"  height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg"></code>
   <code><img  alt="Jil-PHP" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
   <code><img  alt="Jil-MySql" height="30" src="https://icongr.am/devicon/mysql-original.svg"></code>
-  <code><img  alt="Jil-PostgreSQL" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png">
-  <code><img  alt="Jil-PostgreSQL" height="30" src="https://ih1.redbubble.net/image.2428884987.0603/st,small,507x507-pad,600x600,f8f8f8.jpg"></code>
+  <code><img  alt="Jil-PostgreSQL" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
+  <code><img  alt="Jil-Jatstream" height="30" src="https://ih1.redbubble.net/image.2428884987.0603/st,small,507x507-pad,600x600,f8f8f8.jpg"></code>
   <code><img  alt="Jil-AdminLTE" height="30" src="https://adminlte.io/docs/3.0/assets/img/AdminLTELogo.png"></code><br><br>
-  
+
   <code><img  alt="Jil-HTML" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
   <code><img  alt="Jil-CSS" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
   <code><img  alt="Jil-Javascript" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -26,10 +26,10 @@
     
   <code><img  alt="Jil-VueJs" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
   <code><img  alt="Jil-Livewire" height="30" src="https://laravel-livewire.com/img/underwater_jelly.svg"></code>
-  <code><img  alt="Jil-" height="30" src="https://avatars.githubusercontent.com/u/47703742?s=200&v=4"></code>
-  <code><img  alt="Jil-" height="30" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"></code>
-  <code><img  alt="Jil-" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
-  <code><img  alt="Jil-" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+  <code><img  alt="Jil-InertiaJs" height="30" src="https://avatars.githubusercontent.com/u/47703742?s=200&v=4"></code>
+  <code><img  alt="Jil-GitHub" height="30" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"></code>
+  <code><img  alt="Jil-VSCode" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
+  <code><img  alt="Jil-Terminal" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 </div><br>
   
 ## **GitHub Statistics**
