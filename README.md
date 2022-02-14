@@ -1,5 +1,5 @@
 <a href="https://github.com/jierlausson"><img align="right" alt="Jil-pic" height="150" style="border-radius:50px;" src="https://oticairis.dlwsolucoes.com.br/img/jil_pic.png"></a>
-<h1 align="center">Hi 👋, I'm Jil Oliveira - Full Stack Developer</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Jil Oliveira - Full Stack Developer</h1>
 <h3 align="center">Laravel | PHP | MySQL | PostgreSQL | JetStream | HTML | CSS | JavaScript | JQuery | Bootstrap | Tailwind | AlpineJs | VueJs | Livewire | InertiaJs | GitHub | C/C++</h3>
   
 ## <h3 align="left">Languages and Tools</h3>
