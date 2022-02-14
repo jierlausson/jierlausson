@@ -20,8 +20,6 @@
   <code><a href="https://laravel-livewire.com/" target="_blank"><img  alt="Livewire" src="https://laravel-livewire.com/img/underwater_jelly.svg" width="40" height="35"></a></code>
   <code><a href="https://inertiajs.com/" target="_blank"><img  alt="InertiaJs" src="https://avatars.githubusercontent.com/u/47703742?s=200&v=4" width="35" height="35"></a></code>
   <code><a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="35"/></a></code>
-  <code><a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="35"/></a></code>
-  <code><a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="35"/></a></code>
 </p>
   
 ## <h3 align="left">GitHub Statistics</h3>
