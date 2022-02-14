@@ -1,4 +1,4 @@
-<img align="right" alt="Jil-pic" height="150" style="border-radius:50px;" src="https://oticairis.dlwsolucoes.com.br/img/jil_pic.png">
+<a href="https://github.com/jierlausson"><img align="right" alt="Jil-pic" height="150" style="border-radius:50px;" src="https://oticairis.dlwsolucoes.com.br/img/jil_pic.png"></a>
 <h1 align="center">Hi 👋, I'm Jil Oliveira - Full Stack Developer</h1>
 <h3 align="center">Laravel | PHP | MySQL | PostgreSQL | JetStream | HTML | CSS | JavaScript | JQuery | Bootstrap | Tailwind | AlpineJs | VueJs | Livewire | InertiaJs | GitHub | C/C++</h3>
   
@@ -24,13 +24,19 @@
   
 ## <h3 align="left">GitHub Statistics</h3>
 <p align="center">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=jierlausson&show_icons=true&theme=nord&hide_border=true" />
-  <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=jierlausson&theme=nord&hide_border=true" /><br>
+  <a href="https://github.com/jierlausson">
+    <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=jierlausson&show_icons=true&theme=nord&hide_border=true&include_all_commits=true&count_private=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=jierlausson&theme=nord&hide_border=true" />
+  </a><br>
 </p>
+
+<a href="https://github.com/jierlausson">
 
 ![jierlausson ' Activity Graph](https://activity-graph.herokuapp.com/graph?username=jierlausson&custom_title=Jil%20Oliveira%20Contribution%20Graph&theme=nord&bg_color=2e3440&hide_border=true&line=7490ac&point=d8dee9)
 
-## <h3 align="left"><span align="left">Connect with me</span> <img src="https://komarev.com/ghpvc/?username=jierlausson&label=Profile%20views&color=0e75b6&style=flat" alt="jierlausson" align="right"/></h3>
+</a>
+  
+## <h3 align="left"><span align="left">Connect with me</span> <a href="https://github.com/jierlausson"><img src="https://komarev.com/ghpvc/?username=jierlausson&label=Profile%20views&color=0e75b6&style=flat" alt="jierlausson" align="right"/></a></h3>
 <p align="left">
   <code><a href="https://www.linkedin.com/in/jierlausson" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"></a></code>
   <code><a href="https://instagram.com/jierlausson.dev" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" /></a></code>
@@ -40,7 +46,10 @@
 
 ## <h3 align="left">Snake Animation</h3>
 
+<a href="https://github.com/jierlausson" align="center">
+
 ![Snake animation](https://github.com/jierlausson/jierlausson/blob/output/github-contribution-grid-snake.svg)
-<br>
+
+</a><br>
 
 
