@@ -1,4 +1,4 @@
-<a href="https://github.com/jierlausson"><img align="right" alt="Jil-pic" height="150" style="border-radius:50px;" src="https://oticairis.dlwsolucoes.com.br/img/jil_pic.png"></a>
+<a href="https://github.com/jierlausson"><img align="right" alt="Jil Oliveira" height="150" style="border-radius:50px;" src="https://oticairis.dlwsolucoes.com.br/img/jil_pic.png"></a>
 <h2 align="center" font size="4">Hi <a href="https://github.com/jierlausson"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></a>, I'm Jil Oliveira<br>Full Stack Developer</h2>
 <h4 align="center">Laravel | PHP | MySQL | PostgreSQL | JetStream | HTML | CSS | JavaScript | JQuery | Bootstrap | Tailwind | AlpineJs | VueJs | Livewire | InertiaJs | GitHub | C/C++</h4>
   
