@@ -1,5 +1,5 @@
 <a href="https://github.com/jierlausson"><img align="right" alt="Jil Oliveira" height="150" style="border-radius:50px;" src="https://oticairis.dlwsolucoes.com.br/img/jil_pic.png"></a>
-<h2 align="center" font size="4">Hi, I'm Jil Oliveira<br>Back-End Developer</h2>
+<h2 align="center" font size="4">Hi, Jil Oliveira<br>Back-End Dev</h2>
 <h4 align="center">Laravel | PHP | MySQL | PostgreSQL | JetStream | HTML | CSS | JavaScript | JQuery | Bootstrap | Tailwind | AlpineJs | VueJs | Livewire | InertiaJs | GitHub | C/C++</h4>
   
 ## <h3 align="left">Languages and Tools</h3>
