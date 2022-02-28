@@ -1,5 +1,5 @@
 <a href="https://github.com/jierlausson"><img align="right" alt="Jil Oliveira" height="150" style="border-radius:50px;" src="https://oticairis.dlwsolucoes.com.br/img/jil_pic.png"></a>
-<h2 align="center" font size="4">Hi <a href="https://github.com/jierlausson"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></a>, I'm Jil Oliveira<br>Full Stack Developer</h2>
+<h2 align="center" font size="4">Hi, I'm Jil Oliveira<br>Back-End Developer</h2>
 <h4 align="center">Laravel | PHP | MySQL | PostgreSQL | JetStream | HTML | CSS | JavaScript | JQuery | Bootstrap | Tailwind | AlpineJs | VueJs | Livewire | InertiaJs | GitHub | C/C++</h4>
   
 ## <h3 align="left">Languages and Tools</h3>
@@ -35,7 +35,7 @@
 
 </a>
   
-## <h3 align="left"><span align="left">Connect with me <a href="https://github.com/jierlausson"><img src="https://raw.githubusercontent.com/macagua/macagua/master/assets/img/icons/handshake.gif" width="60px"></a></span> <a href="https://github.com/jierlausson"><img src="https://komarev.com/ghpvc/?username=jierlausson&label=Profile%20views&color=0e75b6&style=flat" alt="jierlausson" align="right"/></a></h3>
+## <h3 align="left"><span align="left">Connect with me</span> <a href="https://github.com/jierlausson"><img src="https://komarev.com/ghpvc/?username=jierlausson&label=Profile%20views&color=0e75b6&style=flat" alt="jierlausson" align="right"/></a></h3>
 <p align="left">
   <code><a href="https://www.linkedin.com/in/jierlausson" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"></a></code>
   <code><a href="https://instagram.com/jierlausson.dev" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" /></a></code>
