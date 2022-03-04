@@ -2,7 +2,7 @@
 <h2 align="center" font size="4">Hi, Jil Oliveira<br>Back-End Dev</h2>
 <h4 align="center">Laravel | PHP | MySQL | PostgreSQL | JetStream | HTML | CSS | JavaScript | JQuery | Bootstrap | Tailwind | AlpineJs | VueJs | Livewire | InertiaJs | GitHub | C/C++</h4>
   
-## <h3 align="left">Languages and Tools</h3>
+## <h3 align="left">Languages and Frameworks</h3>
 <p align="center">
   <code><a href="https://laravel.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="35"/></a></code>
   <code><a href="https://www.php.net" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/></a></code>
