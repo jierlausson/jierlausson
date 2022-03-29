@@ -43,7 +43,7 @@
 </p>
 
 
-## <h3 align="left">Snake Animation</h3>
+## <h3 align="left">Snake Animation (in Looping)</h3>
 
 <a href="https://github.com/jierlausson" align="center">
 
