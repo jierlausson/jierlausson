@@ -1,6 +1,6 @@
 <a href="https://github.com/jierlausson"><img align="right" alt="Jil Oliveira" height="175" style="border-radius:50px;" src="https://oticairis.dlwsolucoes.com.br/img/jil_pic.png"></a>
 <h2 align="center" font size="4">Hi, Jil Oliveira.<br>Nice to meet you!<br>Back-End Developer<br>Senior Microcontroller Developer<br>Senior Developer of Electronic Projects</h2>
-<h4 align="center">| Laravel | PHP | MySQL | PostgreSQL | JetStream | HTML | CSS | JavaScript | JQuery | Bootstrap | Tailwind | AlpineJs | VueJs | Livewire | InertiaJs | GitHub | C/C++ | WordPress | PIC | Arduino | ESP8266 | ESP32 | RaspbaryPi | IoT | Flutter | Dart |</h4>
+<h4 align="center">| Laravel | PHP | MySQL | PostgreSQL | JetStream | HTML | CSS | JavaScript | JQuery | Bootstrap | Tailwind | AlpineJs | VueJs | Livewire | InertiaJs | GitHub | C/C++ | WordPress | Flutter | PIC | Arduino | ESP8266 | ESP32 | RaspbaryPi | IoT | Dart |</h4>
   
 ## <h3 align="left">Languages and Frameworks</h3>
 <p align="center">
