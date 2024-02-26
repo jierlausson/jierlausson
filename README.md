@@ -1,25 +1,21 @@
 <a href="https://github.com/jierlausson"><img align="right" alt="Jil Oliveira" height="175" style="border-radius:50px;" src="https://oticairis.dlwsolucoes.com.br/img/jil_pic.png"></a>
-<h2 align="center" font size="4">Hi, Jil Oliveira.<br>Nice to meet you!<br>Mobile Developer<br>Back-End Developer<br>Specialist of Electronic Projects<br>Senior Microcontroller Developer</h2>
-<h4 align="center">| Laravel | PHP | MySQL | PostgreSQL | JetStream | HTML | CSS | JavaScript | JQuery | Bootstrap | Tailwind | AlpineJs | VueJs | Livewire | InertiaJs | Flutter | Dart | GitHub | C/C++ | WordPress | PIC | Arduino | ESP8266 | ESP32 | RaspbaryPi | IoT |</h4>
+<h2 align="center" font size="4">Hi, Jil Oliveira.<br>Nice to meet you!<br>Mobile Developer<br>Back-End Developer<br>Senior Microcontroller Developer<br>Specialist of Electronic Projects</h2>
+<h4 align="center">| Flutter | Dart | PHP | Laravel | Tailwind | AlpineJs | Livewire | PostgreSQL | MySQL | C/C++ | Git | IoT |</h4>
   
 ## <h3 align="left"> Languages and Frameworks</h3>
 <p align="center">
-  <code><a href="https://flutter.dev/" target="_blank"><img src="https://i.morioh.com/2020/02/28/1195ab76f0b1.jpg" alt="Flutter" width="40" height="35"/></a></code
-  <code><a href="https://laravel.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="35"/></a></code>
-  <code><a href="https://www.php.net" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/></a></code>
-  <code><a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a></code>
-  <code><a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="35"/></a></code>
-  <code><a href="https://jetstream.laravel.com/" target="_blank"><img  alt="Jatstream" src="https://ih1.redbubble.net/image.2428884987.0603/st,small,507x507-pad,600x600,f8f8f8.jpg" width="35" height="35"></a></code>
-  <code><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a></code>
-  <code><a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a></code><br>
-  <code><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="30"/></a></code>
-  <code><a href="https://jquery.com/" target="_blank"><img  alt="JQuery" src="https://icongr.am/devicon/jquery-original.svg" width="40" height="35"></a></code>
-  <code><a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="35"/></a></code>
+  <code><a href="https://flutter.dev/" target="_blank"><img src="https://static-00.iconduck.com/assets.00/flutter-icon-413x512-4picx6vy.png" alt="Flutter" width="40" height="35"/></a></code>
+  <code><a href="https://dart.dev/" target="_blank"><img src="https://static-00.iconduck.com/assets.00/dart-icon-511x512-jhyea1ft.png" alt="Flutter" width="40" height="35"/></a></code>
+  <code><a href="https://www.php.net" target="_blank"><img src="https://static-00.iconduck.com/assets.00/file-type-php3-icon-512x244-tvylq4oi.png" alt="php" width="40" height="40"/></a></code>
+  <code><a href="https://laravel.com/" target="_blank"><img src="https://static-00.iconduck.com/assets.00/laravel-icon-497x512-uwybstke.png" alt="laravel" width="40" height="35"/></a></code>
   <code><a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a></code>
   <code><a href="https://alpinejs.dev/" target="_blank"><img  alt="AlpineJs" src="https://www.markusantonwolf.com/topics/alpine-js/alpinejs-logo.svg" width="40" height="35"></a></code>
-  <code><a href="https://vuejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="35"/></a></code>
-  <code><a href="https://laravel-livewire.com/" target="_blank"><img  alt="Livewire" src="https://laravel-livewire.com/img/underwater_jelly.svg" width="40" height="35"></a></code>
-  <code><a href="https://inertiajs.com/" target="_blank"><img  alt="InertiaJs" src="https://avatars.githubusercontent.com/u/47703742?s=200&v=4" width="35" height="35"></a></code>
+  <code><a href="https://livewire.laravel.com/" target="_blank"><img  alt="Livewire" src="https://laravel-livewire.com/img/underwater_jelly.svg" width="40" height="35"></a></code>
+  <code><a href="https://www.postgresql.org" target="_blank"><img src="https://static-00.iconduck.com/assets.00/postgresql-icon-497x512-wlm3keth.png" alt="postgresql" width="40" height="35"/></a></code>
+  <code><a href="https://www.mysql.com/" target="_blank"><img src="https://static-00.iconduck.com/assets.00/mysql-plain-wordmark-icon-512x266-mrkbw7cs.png" alt="mysql" width="40" height="40"/></a></code>
+  <code><a href="https://cplusplus.com/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" alt="c++" width="40" height="40"/></a></code>
+  <code><a href="https://git-scm.com/" target="_blank"><img src="https://static-00.iconduck.com/assets.00/git-icon-512x512-61zfmvxk.png" alt="git" width="40" height="40"/></a></code>
+  <code><a href="https://aws.amazon.com/pt/what-is/iot/" target="_blank"><img src="https://static-00.iconduck.com/assets.00/iot-core-icon-505x512-6puc1zkq.png" alt="iot" width="40" height="40"/></a></code>
 </p>
   
 ## <h3 align="left">GitHub Statistics</h3>
