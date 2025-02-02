@@ -25,12 +25,6 @@
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=jierlausson&theme=nord&hide_border=true" />
   </a><br>
 </p>
-
-<a href="https://github.com/jierlausson">
-
-![jierlausson ' Activity Graph](https://activity-graph.herokuapp.com/graph?username=jierlausson&custom_title=Jil%20Oliveira%20Contribution%20Graph&theme=nord&bg_color=2e3440&hide_border=true&line=7490ac&point=d8dee9)
-
-</a>
   
 ## <h3 align="left"><span align="left">Connect with me</span> <a href="https://github.com/jierlausson"><img src="https://komarev.com/ghpvc/?username=jierlausson&label=Profile%20views&color=0e75b6&style=flat" alt="jierlausson" align="right"/></a></h3>
 <p align="left">
