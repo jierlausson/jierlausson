@@ -1,5 +1,5 @@
 <h2 align="center" font size="4">Hi, Jil Oliveira.<br>Nice to meet you!<br>Software Engineer<br>Mobile Developer<br>Back-End Developer<br>Microcontroller Developer<br>Specialist of Electronic Projects</h2>
-<h4 align="center">| Flutter | Laravel |<br>| Dart | PHP | PostgreSQL | MySQL | C/C++ | Git | IoT |</h4>
+<h4 align="center">| Flutter | Laravel |<br>| Dart | PHP | SQL | Git | IoT |</h4>
   
 ## <h3 align="left"><span align="left">Connect with me</span> <a href="https://github.com/jierlausson"><img src="https://komarev.com/ghpvc/?username=jierlausson&label=Profile%20views&color=0e75b6&style=flat" alt="jierlausson" align="right"/></a></h3>
 <p align="left">
