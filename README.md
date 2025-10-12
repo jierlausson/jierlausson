@@ -1,14 +1,6 @@
 <h2 align="center" font size="4">Hi, Jil Oliveira.<br>Nice to meet you!<br>Software Engineer<br>Mobile Developer<br>Back-End Developer<br>Microcontroller Developer<br>Specialist of Electronic Projects</h2>
 <h4 align="center">| Flutter | Laravel |<br>| Dart | PHP | PostgreSQL | MySQL | C/C++ | Git | IoT |</h4>
   
-## <h3 align="left">GitHub Statistics</h3>
-<p align="center">
-  <a href="https://github.com/jierlausson">
-    <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=jierlausson&show_icons=true&theme=nord&hide_border=true&include_all_commits=true&count_private=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=jierlausson&theme=nord&hide_border=true" />
-  </a><br>
-</p>
-  
 ## <h3 align="left"><span align="left">Connect with me</span> <a href="https://github.com/jierlausson"><img src="https://komarev.com/ghpvc/?username=jierlausson&label=Profile%20views&color=0e75b6&style=flat" alt="jierlausson" align="right"/></a></h3>
 <p align="left">
   <code><a href="https://www.linkedin.com/in/jierlausson" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"></a></code>
