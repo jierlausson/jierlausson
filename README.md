@@ -1,5 +1,5 @@
 <h2 align="center" font size="4">Software Engineer<br>Mobile Developer<br>Back-End Developer<br>Microcontroller Developer<br>Specialist of Electronic Projects</h2>
-<h4 align="center">|| Flutter | KMP | Laravel ||<br>|| Dart | Kotlin | PHP | SQL | IoT ||</h4>
+<h4 align="center">|| Flutter || KMP | Laravel ||<br>|| Dart | Kotlin | PHP | SQL | IoT ||</h4>
   
 ## <h3 align="left"><span align="left">Connect with me</span> <a href="https://github.com/jierlausson"><img src="https://komarev.com/ghpvc/?username=jierlausson&label=Profile%20views&color=0e75b6&style=flat" alt="jierlausson" align="right"/></a></h3>
 <p align="left">
