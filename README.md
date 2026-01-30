@@ -2,28 +2,31 @@
 
 📍 **Fortaleza, Ceará, Brazil**
 
-Full-stack developer specializing in **Flutter** and **Laravel**, building healthcare and business management solutions with focus on clean architecture and scalable systems.
+**Software Engineer** focado em criar ecossistemas escaláveis. Especialista em **Flutter** e **Laravel**, transformo ideias complexas em soluções robustas para saúde, gestão empresarial e IoT.
 
 ---
 
-<h2 align="center">Software Engineer | Mobile Developer | Back-End Developer<br>Microcontroller Developer | Electronics Specialist</h2>
-
-<h4 align="center">Flutter • KMP • Laravel<br>Dart • Kotlin • PHP • SQL • IoT</h4>
+<div align="center">
+  <h3>Software Engineer | Mobile Expert | Backend Dev | IoT & Electronics</h3>
+  <p>
+    <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
+    <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" />
+    <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" />
+  </p>
+</div>
 
 ---
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/jierlausson" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" alt="LinkedIn">
-  </a>
-  <a href="https://instagram.com/jierlausson.dev" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" alt="Instagram">
-  </a>
-  <a href="https://discord.com/channels/@jierlausson#4635" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="30" width="40" alt="Discord">
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=jierlausson&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views">
-</p>
+## 🛠️ Tech Stack & Expertise
+
+| Categoria | Tecnologias |
+| :--- | :--- |
+| **Mobile** | Flutter (BLoC, Clean Arch), KMP, Android Native (Kotlin) |
+| **Backend** | Laravel (Filament), PHP, Node.js, REST APIs |
+| **Database** | PostgreSQL, MySQL, Redis |
+| **DevOps & Cloud** | Laravel Forge, MinIO, Docker, CI/CD |
+| **Hardware/IoT** | C++, Microcontrollers (ESP32/Arduino), Circuit Design |
 
 ---
 
@@ -44,7 +47,7 @@ Complete healthcare communication platform connecting doctors and patients.
 </p>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Med.co_BackOffice-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Med.co BackOffice" />
+  <img src="https://img.shields.io/badge/Med.co_BackOffice-React-20232A?style=for-the-badge&logo=react&logoColor=white" alt="Med.co BackOffice" />
   <br>Administrative web panel for platform management
 </p>
 
@@ -158,30 +161,21 @@ Event ticketing platform for organizers and attendees.
 
 ---
 
-## 🛠️ Tech Stack
-
-**Mobile & Web:** Flutter, React, KMP  
-**Backend:** Laravel (Filament), Kotlin  
-**Languages:** Dart, Kotlin, PHP, SQL  
-**Databases:** PostgreSQL, MySQL  
-**Cloud & DevOps:** Laravel Forge, MinIO  
-**Architecture:** Clean Architecture, BLoC, TDD  
-**Other:** IoT, Microcontrollers, Electronics
-
----
-
-## 📊 GitHub Stats
+## 📊 Stats & Activity
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jierlausson&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
----
-
-## 📈 GitHub Activity
-
 <p align="center">
-  <img src="https://ghchart.rshah.org/jierlausson" alt="GitHub Contribution Graph" />
+  <img src="https://ghchart.rshah.org/0e75b6/jierlausson" alt="GitHub Contribution Graph" />
 </p>
 
 ---
+
+## 📫 Connect with me
+<p align="left">
+  <a href="https://www.linkedin.com/in/jierlausson" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://instagram.com/jierlausson.dev" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="mailto:seu-email@exemplo.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
