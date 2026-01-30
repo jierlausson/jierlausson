@@ -1,3 +1,11 @@
+# Hi, I'm Jil Oliveira 👋
+
+📍 **Fortaleza, Ceará, Brazil**
+
+Full-stack developer specializing in **Flutter** and **Laravel**, building healthcare and business management solutions with focus on clean architecture and scalable systems.
+
+---
+
 <h2 align="center">Software Engineer | Mobile Developer | Back-End Developer<br>Microcontroller Developer | Electronics Specialist</h2>
 
 <h4 align="center">Flutter • KMP • Laravel<br>Dart • Kotlin • PHP • SQL • IoT</h4>
@@ -16,14 +24,6 @@
   </a>
   <img src="https://komarev.com/ghpvc/?username=jierlausson&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views">
 </p>
-
----
-
-# Hi, I'm Jil Oliveira 👋
-
-📍 **Fortaleza, Ceará, Brazil**
-
-Full-stack developer specializing in **Flutter** and **Laravel**, building healthcare and business management solutions with focus on clean architecture and scalable systems.
 
 ---
 
@@ -173,15 +173,15 @@ Event ticketing platform for organizers and attendees.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jierlausson&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jierlausson&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jierlausson&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
 
+## 📈 GitHub Activity
+
 <p align="center">
-  <i>⭐️ From <a href="https://github.com/jierlausson">jierlausson</a></i>
+  <img src="https://ghchart.rshah.org/jierlausson" alt="GitHub Contribution Graph" />
 </p>
+
+---
