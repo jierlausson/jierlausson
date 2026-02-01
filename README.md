@@ -25,11 +25,11 @@
 
 | Categoria | Tecnologias |
 | :--- | :--- |
-| **Mobile** | Flutter (BLoC, Clean Arch), KMP, Android Native (Kotlin) |
-| **Backend** | Laravel (Filament), PHP, Node.js, REST APIs |
+| **Mobile** | Flutter (BLoC, Clean Arch), iOS, Android, KMP |
+| **Backend** | Laravel (Filament), PHP, Kotlin, REST APIs |
 | **Database** | PostgreSQL, MySQL, Redis |
 | **DevOps & Cloud** | Laravel Forge, MinIO, Docker, CI/CD |
-| **Hardware/IoT** | C++, Microcontrollers (ESP32/Arduino), Circuit Design |
+| **Hardware/IoT** | C++, Microcontrollers (PIC/ESP32/Arduino), Circuit Design |
 
 ---
 
