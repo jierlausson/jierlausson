@@ -1,5 +1,6 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1c44ab&height=120&section=header"/>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=00FFAA&center=true&vCenter=true&width=600&lines=Hi,+I'm+Jil+Oliveira;Flutter+%2B+Laravel+Engineer;Building+digital+health...;...events+and+businesses." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=007BFF&center=true&vCenter=true&width=600&lines=Hi,+I'm+Jil+Oliveira;Flutter/Laravel/Automation+Engineer;Building+digital+health...;...events+and+businesses." alt="Typing SVG" />
 </p>
 
 📍 **Fortaleza, Ceará, Brazil**
@@ -170,6 +171,8 @@ Event ticketing platform for organizers and attendees.
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jierlausson&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jierlausson&bg_color=1b1c26&color=1c44ab&line=007BFF&point=1c44ab&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 <p align="center">
   <img src="https://ghchart.rshah.org/0e75b6/jierlausson" alt="GitHub Contribution Graph" />
 </p>
@@ -182,3 +185,5 @@ Event ticketing platform for organizers and attendees.
   <a href="https://instagram.com/jierlausson.dev" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="https://discord.com/channels/@jierlausson"><img src="https://img.shields.io/badge/Discord-7F4FFF?style=for-the-badge&logo=discord&logoColor=white" /></a>
 </p>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1c44ab&height=120&section=footer"/>
