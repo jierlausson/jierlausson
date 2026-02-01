@@ -1,8 +1,10 @@
-# Hi, I'm Jil Oliveira 👋
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=00FFAA&center=true&vCenter=true&width=600&lines=Hi,+I'm+Jil+Oliveira;Flutter+%2B+Laravel+Engineer;Building+digital+health...;...events+and+businesses." alt="Typing SVG" />
+</p>
 
 📍 **Fortaleza, Ceará, Brazil**
 
-**Software Engineer** focado em criar ecossistemas escaláveis. Especialista em **Flutter** e **Laravel**, transformo ideias complexas em soluções robustas para saúde, gestão empresarial e IoT.
+**Software Engineer** focused on creating scalable ecosystems. Specializing in Flutter and Laravel, I transform complex ideas into robust solutions for healthcare, business management, events and IoT.
 
 ---
 
@@ -13,6 +15,7 @@
     <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" />
     <img src="https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" />
     <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" />
+    <img src="https://img.shields.io/badge/mac Os-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white" />
   </p>
 </div>
 
@@ -177,5 +180,5 @@ Event ticketing platform for organizers and attendees.
 <p align="left">
   <a href="https://www.linkedin.com/in/jierlausson" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://instagram.com/jierlausson.dev" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="mailto:seu-email@exemplo.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://discord.com/channels/@jierlausson"><img src="https://img.shields.io/badge/Discord-7F4FFF?style=for-the-badge&logo=discord&logoColor=white" /></a>
 </p>
