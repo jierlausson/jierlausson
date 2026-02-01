@@ -9,7 +9,7 @@
 ---
 
 <div align="center">
-  <h3>Software Engineer | Mobile Expert | Backend Dev | IoT & Electronics</h3>
+  <h3>Software Engineer | Mobile Expert | Backend Dev | IoT | Electronics</h3>
   <p>
     <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
     <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" />
