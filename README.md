@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=007BFF&center=true&vCenter=true&width=600&lines=Hi,+I'm+Jil+Oliveira;Flutter/Laravel/Automation+Engineer;Building+digital+health...;...events+and+businesses." alt="Typing SVG" />
 </p>
 
-📍 **Fortaleza, Ceará, Brazil**
+📍 **Fortaleza|Ceará|Brazil**
 
 **Software Engineer** focused on creating scalable ecosystems. Specializing in Flutter and Laravel, I transform complex ideas into robust solutions for healthcare, business management, events and IoT.
 
