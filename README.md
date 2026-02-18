@@ -5,7 +5,7 @@
 
 📍 **Fortaleza|Ceará|Brazil**
 
-**Software Engineer** focused on creating scalable ecosystems. Specializing in Flutter and Laravel, I transform complex ideas into robust solutions for healthcare, business management, events and IoT.
+**Software Engineer** focused on creating scalable ecosystems.. Specializing in Flutter and Laravel, I transform complex ideas into robust solutions for healthcare, business management, events and IoT.
 
 ---
 
