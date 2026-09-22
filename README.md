@@ -171,8 +171,6 @@ Event ticketing platform for organizers and attendees.
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jierlausson&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jierlausson&bg_color=1b1c26&color=1c44ab&line=007BFF&point=1c44ab&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 <p align="center">
   <img src="https://ghchart.rshah.org/0e75b6/jierlausson" alt="GitHub Contribution Graph" />
 </p>
